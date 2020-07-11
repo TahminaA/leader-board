@@ -1,0 +1,73 @@
+body{
+   background-color: #E5E5E5;
+}
+.brand-logo{
+    
+    width: 40.42px;
+}
+.profile-image{
+    width: 51px;
+}
+.player img{
+    width: 56px;
+}
+main{
+    max-width: 870px;
+    
+}
+
+.item-txt{
+     padding-right: 200px;
+}
+.top-icon{
+    padding-left: 200px;
+} 
+.divider{
+
+    width: 807px;
+    height: 0px;
+    left: 315px;
+    top: 410px;
+    border: 1px solid #D1D1D1;
+    overflow: hidden;
+    }
+.blogger img{
+    width: 180px;
+    
+}
+footer{
+    
+    width: 870px;
+    height: 380px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.card img{
+   width: 80%;
+   margin: 0 auto;
+   margin: 10px;
+  display: flex;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card-text{
+font-family: Roboto;
+font-size: 14px;
+color: #ED6B4F;
+
+
+}
+h4{
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    margin-top: 2%;
+    padding: 1%;
+    color: #562EFF;
+}
+
+  
